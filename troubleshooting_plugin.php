@@ -1,10 +1,10 @@
 <?php
 /**
- * @package Matts_Troubleshooting_Plugin
+ * @package Troubleshooting_Plugin
  * @version 1.6
  */
 /*
-Plugin Name: Matt's Troubleshooting Plugin
+Plugin Name: Troubleshooting Plugin
 Plugin URI: https://www.mattcromwell.com
 Description: This is not just a plugin, it's a way for users everywhere to learn something very important about WordPress.
 Author: Matt Cromwell
