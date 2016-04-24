@@ -1,0 +1,16 @@
+body {
+	background: red;
+	text-align: center;
+	position: relative;
+	height: 100%;
+}
+
+.site {
+	display:none;
+}
+
+.trouble {
+    width: 50%;
+    margin: 0 auto;
+    transform: translateY(50%);
+}
